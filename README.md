@@ -1,2 +1,2 @@
 
-Git & Github full course
+Git & Github Full Course
